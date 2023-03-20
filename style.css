@@ -1,0 +1,66 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+a
+h1{
+    color: aqua;
+    background-color: black;
+}
+.container{
+    width: 400px;
+    margin: auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+ 
+.box2{
+   width: 45%;
+   margin: auto;
+    
+}
+
+.box3{
+    width: 40%;
+    margin: auto;
+}
+
+.box3 img{
+    width:200%;
+}
+.box3{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.box4{
+    width: 40%;
+    margin: auto;
+}
+.box4 img{
+    width: 100%;
+    
+    
+}
+h1{
+    background-color: coral;
+    border:  solid royalblue ;
+    padding: 20px 20px;
+   
+}
+
+.box5{
+    
+    margin: auto;
+}
+.box5 .box5_1{
+    
+    margin: auto;
+}
+
+.box5_1 img{
+    width: 100%;
+}
+
